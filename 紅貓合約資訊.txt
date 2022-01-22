@@ -36,7 +36,7 @@ mint20隻 給steven(空投)
 6.設定價格     傳入價格             (限Owner)
 7.設定MetaData URL  傳入價格URL     (限Owner)
 8.出金給owner                       (限Owner)
-9.獲取空投NFT10隻                   (私有)
+9.獲取空投NFT20隻                   (私有)
 
 讀取方法
 10.讀取持有者的NFT   傳入地址
